@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\published\TKPAbsen" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/AbsenApp.dll" publishTime="11/04/2015 17:31:37" />
+    <file relUrl="Log4net.config" publishTime="03/31/2015 13:03:09" />
+    <file relUrl="Site.Master" publishTime="05/20/2015 18:12:28" />
+    <file relUrl="Surogate.aspx" publishTime="05/20/2015 18:11:23" />
+    <file relUrl="bin/log4net.dll" publishTime="03/31/2015 13:03:09" />
+    <file relUrl="Surogates.ashx" publishTime="09/07/2015 18:36:48" />
+    <file relUrl="Styles/Site.css" publishTime="05/19/2015 13:43:13" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/19/2015 13:43:13" />
+    <file relUrl="bin/Log4net.config" publishTime="03/31/2015 13:03:09" />
+    <file relUrl="Web.config" publishTime="09/16/2015 18:20:32" />
+    <file relUrl="Global.asax" publishTime="05/19/2015 13:43:13" />
+    <file relUrl="bin/Configuration/AppConfiguration.ini" publishTime="05/19/2015 14:42:29" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/19/2015 13:43:13" />
+    <file relUrl="bin/AbsenApp.pdb" publishTime="11/04/2015 17:31:37" />
+    <file relUrl="bin/MiniFramework.dll" publishTime="03/31/2015 13:03:09" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/19/2015 13:43:13" />
+  </publishProfile>
+</publishData>
